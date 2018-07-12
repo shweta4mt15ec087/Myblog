@@ -42,3 +42,22 @@ p{
     color: white;
     
 }
+/*style for gallary*/
+div.Gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width:200px;
+}
+div.Gallery:hover{
+    border: 1px solid #777;
+}
+div.Gallery img{
+    width: 100%;
+    height: 200px;
+    
+}
+div.desc{
+    padding: 15px;
+    text-align:center;
+}
